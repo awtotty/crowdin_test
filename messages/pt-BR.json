@@ -1,0 +1,110 @@
+{
+  "NavPanel": {
+    "help": "Ajuda",
+    "help-menu": "Ementa de Ajuda",
+    "language": "Língua",
+    "profile-menu": "Ementa de Perfis",
+    "opens-in-new-tab": "Abrir em uma nova aba",
+    "toggle-panel": "Alternar Painel de Navegação",
+    "knowledge-base": "Base de Conhecimento",
+    "contact-support": "Contatar o suporte"
+  },
+  "StudentSupportChat": {
+    "created-at": "Criado em {createdAt, time, short}",
+    "update-guidance": "Orientação de atualização",
+    "no-guidance-needed": "Nenhuma orientação necessária!",
+    "student-solution-is-correct": "O código e a saída {student} estão corretos.",
+    "ask-kira-ai": "Pergunte a Kira AI",
+    "open-chat": "Abrir bate-papo",
+    "close-chat": "Fechar bate-papo",
+    "stale-guidance-warning": "A orientação pode estar desatualizada",
+    "kira": "Quira",
+    "resend-message": "Reenviar mensagem",
+    "updating-student-guidance": "Atualizando orientação do aluno."
+  },
+  "AiTaGuidanceCard": {
+    "ask-the-student": "Pergunte ao aluno:",
+    "expand-guidance": "Expandir Orientação Ai TA",
+    "collapse-guidance": "Recolher orientação Ai TA",
+    "line": "Linha {lineRange}",
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "copy-code": "Copiar código"
+  },
+  "CoverImage": {
+    "image-instructions": "Enviar uma imagem",
+    "image-requirements": "JPG, JPEG ou PNG (tamanho recomendado: 70 x 70)",
+    "choose-image": "Escolher imagem"
+  },
+  "CreateCourseOriginalModal": {
+    "title": "Novo Curso",
+    "submit": "Crie um curso",
+    "field-course-title": "Nome",
+    "field-course-description": "Descrição",
+    "field-learning-targets": "Metas de aprendizado",
+    "field-grades": "Notas",
+    "field-image": "Imagem",
+    "field-topics": "Disciplinas",
+    "placeholder-learning-targets": "Um aluno será capaz de...",
+    "placeholder-topics": "ex.: Python, Ciência de Dados",
+    "field-required-error": "Este campo é obrigatório.",
+    "cancel-and-close": "Cancelar"
+  },
+  "StudentSupportGuidanceUserFeedback": {
+    "tooltip-helpful": "Orientação útil",
+    "tooltip-not-helpful": "Orientação não útil",
+    "mark-helpful": "Marcar orientação como útil",
+    "mark-not-helpful": "Marcar orientação como não útil"
+  },
+  "SubmissionHistory": {
+    "submission-brief": "Envios {submits}/{maxSubmits} em {submittedAt, date, ::MMM d}",
+    "student-submission": "Envio do aluno em {submittedAt, date, dateAndTime}",
+    "grade-release": "Lance uma nota em {releasedAt, date, dateAndTime}"
+  },
+  "StudentSupportContent": {
+    "sort": "Ordenar",
+    "sort-name": "Nome",
+    "sort-progress": "Progresso",
+    "search-placeholder-student-name": "Nome do estudante",
+    "support": "Suporte",
+    "view-live-work": "Visualizar trabalho ao vivo",
+    "quick-grader": "QuickGrader"
+  },
+  "PlatypusV2": {
+    "worlds": "Mundos",
+    "instructions-commands": "Instruções & Comandos",
+    "ai-tutor": "AI Tutor",
+    "world-view": {
+      "both-worlds": "Ambos os Mundos",
+      "your-world": "Seu Mundo",
+      "your-task": "Sua tarefa",
+      "task-description": "Mova o platótipo e coloque-o e pegue os itens para que o seu mundo de plataforma se pareça com o mundo alvo.",
+      "target-world": "Target World"
+    }
+  },
+  "MessageInput": {
+    "kira-can-make-mistakes": "Kira pode cometer erros. Por favor, verifique respostas."
+  },
+  "ModuleContent": {
+    "content": "Conteúdo",
+    "kira-ai-chat": "Chat de Kira AI",
+    "student-support": "Suporte ao Aluno",
+    "kira-ai-tutor": "Kira AI Tutor",
+    "ai-settings": "Configurações de IA",
+    "new-live-student-support-title": "NOVO: Suporte a estudantes ao vivo",
+    "new-live-student-support-body": "Acompanhe o progresso do aluno e obtenha orientações sobre como ajudá-los quando estiverem presos.",
+    "new-live-student-support-confirm-text": "Experimente já",
+    "new-live-student-support-cancel-text": "Eu tenho que"
+  },
+  "QuestionGeneratorPanel": {
+    "header": "Assistente de IA",
+    "fields": {
+      "topic": "De que se trata esta questão?",
+      "topic-placeholder": "Alvos de aprendizado, ideias erradas, conexões do mundo real, etc.",
+      "step": "Curso",
+      "numQuestions": "questões",
+      "optionsPerQuestion": "Opções de resposta"
+    },
+    "submit-button": "Criar MCQ"
+  }
+}
