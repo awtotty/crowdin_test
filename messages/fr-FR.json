@@ -1,110 +1,110 @@
 {
   "NavPanel": {
-    "help": "Help",
-    "help-menu": "Help Menu",
-    "language": "Language",
-    "profile-menu": "Profile Menu",
-    "opens-in-new-tab": "Opens in new tab",
-    "toggle-panel": "Toggle Navigation Panel",
-    "knowledge-base": "Knowledge base",
-    "contact-support": "Contact support"
+    "help": "Aide",
+    "help-menu": "Menu Aide",
+    "language": "Langue",
+    "profile-menu": "Menu Profil",
+    "opens-in-new-tab": "Ouvre dans un nouvel onglet",
+    "toggle-panel": "Activer/désactiver le panneau de navigation",
+    "knowledge-base": "Base de connaissances",
+    "contact-support": "Contacter le support technique"
   },
   "StudentSupportChat": {
-    "created-at": "Created at {createdAt, time, short}",
-    "update-guidance": "Update guidance",
-    "no-guidance-needed": "No guidance needed!",
-    "student-solution-is-correct": "Code and output for {student} are correct.",
-    "ask-kira-ai": "Ask Kira AI",
-    "open-chat": "Open chat",
-    "close-chat": "Close chat",
-    "stale-guidance-warning": "Guidance may be out of date",
+    "created-at": "Créé à {createdAt, time, short}",
+    "update-guidance": "Mise à jour de l'aide",
+    "no-guidance-needed": "Aucune orientation nécessaire!",
+    "student-solution-is-correct": "Le code et la sortie pour {student} sont corrects.",
+    "ask-kira-ai": "Demandez à l'IA de Kira",
+    "open-chat": "Ouvrir le chat",
+    "close-chat": "Fermer le chat",
+    "stale-guidance-warning": "L'orientation peut être obsolète",
     "kira": "Kira",
-    "resend-message": "Resend message",
-    "updating-student-guidance": "Updating student's guidance."
+    "resend-message": "Renvoyer le message",
+    "updating-student-guidance": "Mise à jour des conseils de l'étudiant."
   },
   "AiTaGuidanceCard": {
-    "ask-the-student": "Ask the student:",
-    "expand-guidance": "Expand Ai TA Guidance",
-    "collapse-guidance": "Collapse Ai TA Guidance",
-    "line": "Line {lineRange}",
-    "copy": "Copy",
-    "copied": "Copied!",
-    "copy-code": "Copy code"
+    "ask-the-student": "Demandez à l'élève :",
+    "expand-guidance": "Développer Ai TA Guidance",
+    "collapse-guidance": "Réduire Ai TA Orientation",
+    "line": "Ligne {lineRange}",
+    "copy": "Copie",
+    "copied": "Copié!",
+    "copy-code": "Copier le code"
   },
   "CoverImage": {
-    "image-instructions": "Upload an image",
-    "image-requirements": "JPG, JPEG or PNG (recommended size: 70 x 70)",
-    "choose-image": "Choose image"
+    "image-instructions": "Télécharger une image",
+    "image-requirements": "JPG, JPEG ou PNG (taille recommandée: 70 x 70)",
+    "choose-image": "Choisir une image"
   },
   "CreateCourseOriginalModal": {
-    "title": "New Course",
-    "submit": "Create new course",
-    "field-course-title": "Name",
-    "field-course-description": "Description",
-    "field-learning-targets": "Learning targets",
-    "field-grades": "Grades",
+    "title": "Nouveau cours",
+    "submit": "Créer un nouveau cours",
+    "field-course-title": "Nom",
+    "field-course-description": "Libellé",
+    "field-learning-targets": "Objectifs d'apprentissage",
+    "field-grades": "Notes",
     "field-image": "Image",
-    "field-topics": "Topics",
-    "placeholder-learning-targets": "A student will be able to...",
-    "placeholder-topics": "e.g. Python, Data science",
-    "field-required-error": "This field is required.",
-    "cancel-and-close": "Cancel"
+    "field-topics": "Sujets",
+    "placeholder-learning-targets": "Un étudiant sera en mesure de...",
+    "placeholder-topics": "par exemple Python, Data Science",
+    "field-required-error": "Ce champ est obligatoire.",
+    "cancel-and-close": "Abandonner"
   },
   "StudentSupportGuidanceUserFeedback": {
-    "tooltip-helpful": "Helpful guidance",
-    "tooltip-not-helpful": "Not helpful guidance",
-    "mark-helpful": "Mark guidance as helpful",
-    "mark-not-helpful": "Mark guidance as not helpful"
+    "tooltip-helpful": "Orientation utile",
+    "tooltip-not-helpful": "Orientation peu utile",
+    "mark-helpful": "Marquer les conseils comme utiles",
+    "mark-not-helpful": "Marquer les conseils comme inutiles"
   },
   "SubmissionHistory": {
-    "submission-brief": "Submission {submits}/{maxSubmits} on {submittedAt, date, ::MMM d}",
-    "student-submission": "Student submission on {submittedAt, date, dateAndTime}",
-    "grade-release": "Grade release on {releasedAt, date, dateAndTime}"
+    "submission-brief": "Soumission {submits}/{maxSubmits} sur {submittedAt, date, ::MMM d}",
+    "student-submission": "Soumission de l'élève le {submittedAt, date, dateAndTime}",
+    "grade-release": "Note sur {releasedAt, date, dateAndTime}"
   },
   "StudentSupportContent": {
-    "sort": "Sort",
-    "sort-name": "Name",
-    "sort-progress": "Progress",
-    "search-placeholder-student-name": "Student name",
-    "support": "Support",
-    "view-live-work": "View live work",
-    "quick-grader": "QuickGrader"
+    "sort": "Trier",
+    "sort-name": "Nom",
+    "sort-progress": "Progrès",
+    "search-placeholder-student-name": "Nom de l'élève",
+    "support": "Soutien",
+    "view-live-work": "Voir le travail en direct",
+    "quick-grader": "Évaluateur rapide"
   },
   "PlatypusV2": {
-    "worlds": "Worlds",
-    "instructions-commands": "Instructions & Commands",
+    "worlds": "Mondes",
+    "instructions-commands": "Instructions & Commandes",
     "ai-tutor": "AI Tutor",
     "world-view": {
-      "both-worlds": "Both Worlds",
-      "your-world": "Your World",
-      "your-task": "Your Task",
-      "task-description": "Move the platypus and have it put down and pick up items so that your platypus world looks like the target world.",
+      "both-worlds": "Les deux mondes",
+      "your-world": "Votre Monde",
+      "your-task": "Votre tâche",
+      "task-description": "Déplacez le platypus et faites-le déposer et ramassez des objets pour que votre monde de platypus ressemble au monde cible.",
       "target-world": "Target World"
     }
   },
   "MessageInput": {
-    "kira-can-make-mistakes": "Kira can make mistakes. Please check responses."
+    "kira-can-make-mistakes": "Kira peut faire des erreurs. Veuillez vérifier les réponses."
   },
   "ModuleContent": {
-    "content": "Content",
-    "kira-ai-chat": "Kira AI Chat",
-    "student-support": "Student Support",
+    "content": "Contenus",
+    "kira-ai-chat": "Chat de Kira AI",
+    "student-support": "Soutien des étudiants",
     "kira-ai-tutor": "Kira AI Tutor",
-    "ai-settings": "AI Settings",
-    "new-live-student-support-title": "NEW: Live student support",
-    "new-live-student-support-body": "Track student progress and get guidance on how to help them when they're stuck.",
-    "new-live-student-support-confirm-text": "Try it out",
-    "new-live-student-support-cancel-text": "Got it"
+    "ai-settings": "Paramètres IA",
+    "new-live-student-support-title": "NOUVEAU : Support des étudiants en direct",
+    "new-live-student-support-body": "Suivez les progrès des élèves et obtenez des conseils pour les aider quand ils sont bloqués.",
+    "new-live-student-support-confirm-text": "Essayez-le",
+    "new-live-student-support-cancel-text": "Compris"
   },
   "QuestionGeneratorPanel": {
-    "header": "AI Assistant",
+    "header": "Assistant IA",
     "fields": {
-      "topic": "What is this question about?",
-      "topic-placeholder": "Learning targets, misconceptions, real world connections, etc.",
-      "step": "Course",
+      "topic": "De quoi s'agit-il?",
+      "topic-placeholder": "Cibles d'apprentissage, idées fausses, connexions dans le monde réel, etc.",
+      "step": "Cours",
       "numQuestions": "Questions",
-      "optionsPerQuestion": "Answer options"
+      "optionsPerQuestion": "Options de réponse"
     },
-    "submit-button": "Create MCQ"
+    "submit-button": "Créer un MCQ"
   }
 }
